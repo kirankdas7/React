@@ -8,7 +8,6 @@ function ArrayMap() {
 
     
     <div>
-        <h1>array map</h1>
         <h1>{display.name} have {display.age} </h1>
     </div>
 )
